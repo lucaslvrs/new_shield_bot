@@ -13,7 +13,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "kotaro")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\bot.jpg',
+  			attachment: './/images//bot.jpg',
   			name: 'bot.jpg'
   		}]
   	});
@@ -21,7 +21,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "1010")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\1010.png',
+  			attachment: './/images//1010.png',
   			name: '1010.png'
   		}]
   	});
@@ -29,7 +29,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "aaa")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\aaa.png',
+  			attachment: './/images//aaa.png',
   			name: 'aaa.png'
   		}]
   	});
@@ -37,7 +37,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "aizawa")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\aizawa.png',
+  			attachment: './/images//aizawa.png',
   			name: 'aizawa.png'
   		}]
   	});
@@ -45,7 +45,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "alexlie")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\alexlie.jpg',
+  			attachment: './/images//alexlie.jpg',
   			name: 'alexlie.jpg'
   		}]
   	});
@@ -53,7 +53,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "apollo")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\apollo.png',
+  			attachment: './/images//apollo.png',
   			name: 'apollo.png'
   		}]
   	});
@@ -61,7 +61,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "autism")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\autism.png',
+  			attachment: './/images//autism.png',
   			name: 'autism.png'
   		}]
   	});
@@ -69,7 +69,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "avgn")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\avgn.png',
+  			attachment: './/images//avgn.png',
   			name: 'avgn.png'
   		}]
   	});
@@ -77,7 +77,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "byakuya")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\byakuya.png',
+  			attachment: './/images//byakuya.png',
   			name: 'byakuya.png'
   		}]
   	});
@@ -85,7 +85,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "cease1")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\cease1.png',
+  			attachment: './/images//cease1.png',
   			name: 'cease1.png'
   		}]
   	});
@@ -93,7 +93,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "cease2")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\cease2.png',
+  			attachment: './/images//cease2.png',
   			name: 'cease2.png'
   		}]
   	});
@@ -101,7 +101,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "cease3")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\cease3.png',
+  			attachment: './/images//cease3.png',
   			name: 'cease3.png'
   		}]
   	});
@@ -109,7 +109,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "cease4")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\cease4.png',
+  			attachment: './/images//cease4.png',
   			name: 'cease4.png'
   		}]
   	});
@@ -117,7 +117,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "chart")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\chart.png',
+  			attachment: './/images//chart.png',
   			name: 'chart.png'
   		}]
   	});
@@ -125,7 +125,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "crinca")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\crinca.png',
+  			attachment: './/images//crinca.png',
   			name: 'crinca.png'
   		}]
   	});
@@ -133,7 +133,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "doubt")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\doubt.jpg',
+  			attachment: './/images//doubt.jpg',
   			name: 'doubt.jpg'
   		}]
   	});
@@ -141,7 +141,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "enzosmug")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\enzosmug.png',
+  			attachment: './/images//enzosmug.png',
   			name: 'enzosmug.png'
   		}]
   	});
@@ -149,7 +149,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "familiarfaces")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\familiarfaces.png',
+  			attachment: './/images//familiarfaces.png',
   			name: 'familiarfaces.png'
   		}]
   	});
@@ -157,7 +157,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "gg")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\gg.png',
+  			attachment: './/images//gg.png',
   			name: 'gg.png'
   		}]
   	});
@@ -165,7 +165,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "gilbosta")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\gilbosta.png',
+  			attachment: './/images//gilbosta.png',
   			name: 'gilbosta.png'
   		}]
   	});
@@ -173,7 +173,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "hihi")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\hihi.png',
+  			attachment: './/images//hihi.png',
   			name: 'hihi.png'
   		}]
   	});
@@ -181,7 +181,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "hisbest")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\hisbest.png',
+  			attachment: './/images//hisbest.png',
   			name: 'hisbest.png'
   		}]
   	});
@@ -189,7 +189,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "ismiojoalex")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\ismiojoalex.png',
+  			attachment: './/images//ismiojoalex.png',
   			name: 'ismiojoalex.png'
   		}]
   	});
@@ -197,7 +197,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "jojogil")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\jojogil.png',
+  			attachment: './/images//jojogil.png',
   			name: 'jojogil.png'
   		}]
   	});
@@ -205,7 +205,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "junko")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\junko.png',
+  			attachment: './/images//junko.png',
   			name: 'junko.png'
   		}]
   	});
@@ -213,7 +213,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "kriknak")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\kriknak.png',
+  			attachment: './/images//kriknak.png',
   			name: 'kriknak.png'
   		}]
   	});
@@ -221,7 +221,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "midoriya")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\midoriya.png',
+  			attachment: './/images//midoriya.png',
   			name: 'midoriya.png'
   		}]
   	});
@@ -229,7 +229,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "olhaisso")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\olhaisso.png',
+  			attachment: './/images//olhaisso.png',
   			name: 'olhaisso.png'
   		}]
   	});
@@ -237,7 +237,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "opinion")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\opinion.png',
+  			attachment: './/images//opinion.png',
   			name: 'opinion.png'
   		}]
   	});
@@ -245,7 +245,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "realshit")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\realshit.png',
+  			attachment: './/images//realshit.png',
   			name: 'realshit.png'
   		}]
   	});
@@ -253,7 +253,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "redmidoriya")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\redmidoriya.png',
+  			attachment: './/images//redmidoriya.png',
   			name: 'redmidoriya.png'
   		}]
   	});
@@ -261,7 +261,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "rocknani")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\rocknani.png',
+  			attachment: './/images//rocknani.png',
   			name: 'rocknani.png'
   		}]
   	});
@@ -269,7 +269,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "sad")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\sad.png',
+  			attachment: './/images//sad.png',
   			name: 'sad.png'
   		}]
   	});
@@ -277,7 +277,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "significant")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\significant.jpg',
+  			attachment: './/images//significant.jpg',
   			name: 'significant.jpg'
   		}]
   	});
@@ -285,7 +285,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "slater")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\slater.png',
+  			attachment: './/images//slater.png',
   			name: 'slater.png'
   		}]
   	});
@@ -293,7 +293,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "thiskills")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\thiskills.jpg',
+  			attachment: './/images//thiskills.jpg',
   			name: 'thiskills.jpg'
   		}]
   	});
@@ -301,7 +301,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "widelyboring")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\widelyboring.png',
+  			attachment: './/images//widelyboring.png',
   			name: 'widelyboring.png'
   		}]
   	});
@@ -309,7 +309,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "wtfwas")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\wtfwas.png',
+  			attachment: './/images//wtfwas.png',
   			name: 'wtfwas.png'
   		}]
   	});
@@ -317,7 +317,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "zasmoji")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\zasmoji.png',
+  			attachment: './/images//zasmoji.png',
   			name: 'zasmoji.png'
   		}]
   	}); 
@@ -325,7 +325,7 @@ client.on("message", (message) => {
   if (message.content.startsWith(prefix + "bitch")) {
   	message.channel.send({
   		files: [{
-  			attachment: '.\\images\\bitch.png',
+  			attachment: './/images//bitch.png',
   			name: 'bitch.png'
   		}]
   	});
@@ -334,7 +334,7 @@ client.on("message", (message) => {
   	if (message.member.voiceChannel) {
   		message.member.voiceChannel.join()
         .then(connection => { // Connection is an instance of VoiceConnection
-        	const dispatcher = connection.playFile('.\\ohno.mp3');
+        	const dispatcher = connection.playFile('.//ohno.mp3');
         	dispatcher.on('end', () => {
         		message.member.voiceChannel.leave();
         	});
